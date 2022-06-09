@@ -1,4 +1,4 @@
-function ideal_edge_length_preservation(links, ideal_lengths){
+function compute_ideal_edge_length_preservation(links, ideal_lengths){
   let total_difference = 0;
   for (let i = 0; i < links.length; i++) {
     let x1 = links[i].source.x;
