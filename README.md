@@ -1,7 +1,7 @@
 # evolving_tree
 
 The code of Dynasafe is available here:
-https://github.com/tiga1231/zmlt/tree/master/
+https://github.com/evolving-trees/zmlt
 
 The code of DynNoSlice is available here:
 http://cs.swan.ac.uk/~dynnoslice/software.html
