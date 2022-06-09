@@ -1,4 +1,4 @@
-function areaCoverage(labelDoms){
+function computeAreaCoverage(labelDoms){
   // labelDoms - a list of DOM elements for the labels.
   // If you are using d3, it is yourLabelSelection.nodes(), see:
   // https://github.com/d3/d3-selection/blob/v2.0.0/README.md#selection_nodes
